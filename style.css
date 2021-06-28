@@ -12,3 +12,10 @@ h1 {
 body {
     background-image: url();
 }
+
+#container {
+    width: 950px;
+    height: auto;
+    position: relative;
+    margin-left: auto;
+}
